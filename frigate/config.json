@@ -5,7 +5,7 @@
   "panel_title": "Frigate",
   "slug": "frigate",
   "description": "NVR with realtime local object detection for IP cameras",
-  "url": "https://github.com/blakeblackshear/frigate",
+  "url": "https://github.com/e1z0/jetson-frigate",
   "startup": "application",
   "boot": "auto",
   "webui": "http://[HOST]:[PORT:5000]/",
