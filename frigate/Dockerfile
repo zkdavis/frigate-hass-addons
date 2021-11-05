@@ -1,2 +1,2 @@
 ARG BUILD_ARCH
-FROM blakeblackshear/frigate:0.9.4-${BUILD_ARCH}
+FROM https://github.com/e1z0/jetson-frigate.git
